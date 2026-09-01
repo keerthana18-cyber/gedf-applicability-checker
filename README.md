@@ -83,7 +83,7 @@ python3 examples/mkdv.py
 
 If you use this software, please cite the Zenodo record:
 
-    <Zenodo DOI — to be added once archived>
+    [<Zenodo DOI — to be added once archived>](https://doi.org/10.5281/zenodo.22222020)
 
 Citation information for the associated paper will be added once it
 is published.
